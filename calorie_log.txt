@@ -1,0 +1,4 @@
+2025-10-03 14:38:40.065360 List of meals = ['Breakfast', 'Lunch', 'Snack'] 
+total clorie intake =1100.0 
+daily limit = 1000.0 
+Average Consumption for the day = 366.6666666666667

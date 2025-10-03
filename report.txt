@@ -1,0 +1,4 @@
+2025-10-03 14:43:30.536095 List of meals = ['Rice', 'Milk'] 
+total clorie intake =230.0 
+daily limit = 300.0 
+Average Consumption for the day = 115.0
